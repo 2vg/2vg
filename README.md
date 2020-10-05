@@ -6,7 +6,14 @@
 [![Steam: mikopero](https://img.shields.io/static/v1?label=&message=mikopero&style=flat-square&logo=steam&labelColor=002200&color=ee77ee)](https://steamcommunity.com/id/mikopero/)
 ![Discord: ururu#5687](https://img.shields.io/static/v1?label=ururu&message=%235687&style=flat-square&logo=discord&color=ee77ee)
 
-![2vg's github stats](https://github-readme-stats.vercel.app/api?username=2vg&show_icons=true)
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=2vg&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2vg&theme=dracula&langs_count=4&show_icons=true" />
+  </a>
+</p>
 
 #### - general
 hello :3  
