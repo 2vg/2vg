@@ -16,10 +16,9 @@
 </p>
 
 #### - general
-hello :3  
-i'm called 2vg(pronounce is Nībuijī) / mofu / uru.  
-i like gaming, programming, listening to music.  
-and i love ouka miko[🐺](https://twitter.com/miko_ouka), kitakami futaba[🌱](https://twitter.com/kitakamifutaba).
+Hello :3  
+I'm called 2vg(pronounce is Nībuijī) / mofu / uru.  
+I like gaming, programming, listening to music.  
 
 #### - tech
 I LOVE `Rust`.
